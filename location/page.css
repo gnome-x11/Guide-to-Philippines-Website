@@ -1,0 +1,131 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  scroll-snap-type: y mandatory;
+}
+
+.main--title {
+  position: fixed;
+  text-align: center;
+  color: black;
+  margin-bottom: 0;
+}
+
+.first {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: -40px;
+}
+
+.second {
+  font-size: 128px;
+  font-weight: bold;
+  margin-top: 0px;
+  margin-bottom: -40px;
+}
+
+.third {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.h6 {
+  color: black;
+}
+
+.bohol--container {
+  height: 100vh;
+  width: 100%;
+  background-image: url(/COMPETITION/img/bohol--big.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+
+}
+
+.mayon--container {
+  height: 100vh;
+  width: 100%;
+  background-image: url(/COMPETITION/img/mayon--big.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+
+}
+
+.banaue--container {
+  height: 100vh;
+  width: 100%;
+  background-image: url(/COMPETITION/img/riceterreces--big.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}
+
+.apo--container {
+
+
+  height: 100vh;
+  width: 100%;
+  background-image: url(/COMPETITION/img/whangOd--big.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+
+}
+
+.siargao--container {
+
+  height: 100vh;
+  width: 100%;
+  background-image: url(/COMPETITION/img/siargao--big.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 0;
+  margin: 0;
+}
+
+
+.title {
+  transform: translateY(60%);
+  text-align: center;
+  align-items: center;
+
+}
+
+.title h6 {
+  font-size: 35px;
+  font-weight: lighter;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.title h1 {
+  font-size: 128px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.title h5 {
+  margin-top: 0;
+  font-weight: lighter;
+  font-size: 20px;
+}
+
+.description {
+  margin-top: 107px;
+  font-size: 20px;
+  font-weight: bold;
+}
