@@ -44,7 +44,7 @@ section {
 .bohol--container {
   height: 100vh;
   width: 100%;
-  background-image: url(/COMPETITION/img/bohol--big.jpg);
+  background-image: url(/img/bohol--big.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 0;
@@ -55,7 +55,7 @@ section {
 .mayon--container {
   height: 100vh;
   width: 100%;
-  background-image: url(/COMPETITION/img/mayon--big.jpg);
+  background-image: url(/img/mayon--big.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 0;
@@ -66,7 +66,7 @@ section {
 .banaue--container {
   height: 100vh;
   width: 100%;
-  background-image: url(/COMPETITION/img/riceterreces--big.jpg);
+  background-image: url(/img/riceterreces--big.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 0;
@@ -78,7 +78,7 @@ section {
 
   height: 100vh;
   width: 100%;
-  background-image: url(/COMPETITION/img/whangOd--big.jpg);
+  background-image: url(/img/whangOd--big.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 0;
@@ -90,7 +90,7 @@ section {
 
   height: 100vh;
   width: 100%;
-  background-image: url(/COMPETITION/img/siargao--big.jpg);
+  background-image: url(/img/siargao--big.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 0;
